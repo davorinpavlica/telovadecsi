@@ -1,0 +1,13 @@
+title: "Telovadec"
+tagline: "Kratke vaje, vsak dan"
+description: "Telovadec.si – enostavne vaje 5–10 min na dan."
+author :
+  name : Davorin Pavlica
+  email : davorin.pavlica@zvpl.com
+  github : davorinpavlica
+  twitter : davorinpavlica
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://telovadec.si"
+
+plugins:
+  - jekyll-redirect-from
