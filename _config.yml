@@ -6,8 +6,6 @@ author :
   email : davorin.pavlica@zvpl.com
   github : davorinpavlica
   twitter : davorinpavlica
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://telovadec.si"
 
 plugins:
   - jekyll-redirect-from
